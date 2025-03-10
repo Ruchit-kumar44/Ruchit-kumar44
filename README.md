@@ -6,7 +6,7 @@
 - **Tools & Technologies:** Git, Github
 -
 - 📫 How to reach me:
-- **LinkedIn:** [Ruchit Kumar](www.linkedin.com/in/ruchit-k539)
+- **LinkedIn:** www.linkedin.com/in/ruchit-k539
 - **Email:** ruchitk539@gmail.com
 - 😄 Pronouns: he/him
 
