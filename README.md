@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruchit-kumar44
-- 📚 Passionate about: Artificial intelligence, open source, and solving real-world problems with code.
+- 📚 Passionate about: Artificial intelligence, open source, ui/ux development and solving real-world problems with code.
 - ## Skills
 - **Programming Languages:** JavaScript, Typescript 
 - **Web Development:** HTML, CSS, React, Node.js
