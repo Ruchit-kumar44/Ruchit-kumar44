@@ -8,7 +8,7 @@
 - 📫 How to reach me:
 - **LinkedIn:** www.linkedin.com/in/ruchit-k539
 - **Email:** ruchitk539@gmail.com
-- 😄 Pronouns: he/him
+-  Pronouns: he/him
 
 <!---
 Ruchit-kumar44/Ruchit-kumar44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
